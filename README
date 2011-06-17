@@ -6,7 +6,7 @@ hoverToggle jQuery Plugin
 
 I found myself continually reimplementing the simple logic of hiding/showing child elements when the parent element is hovered over.
 
-This is nothing groundbreaking, but I find it useful.
+This is nothing groundbreaking, but I find it useful when dealing with older browsers that don't support the CSS `:hover` pseudoclass.
 
 Example Usage: 
 -------------
